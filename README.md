@@ -1,5 +1,7 @@
 # Air Quality Prediction Using MLOps Framework
 
+You can find the dashboard [here](https://minifixio.github.io/mlfs-book/).
+
 This project forecasts PM2.5 levels for the next 7–10 days by integrating weather data and historical air quality data into an automated MLOps pipeline. An enhancement to the initial project was the inclusion of a new feature, **lagged air quality for the previous 1–3 days**, to capture temporal dependencies and improve prediction accuracy.
 
 
